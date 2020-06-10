@@ -22,7 +22,7 @@ h1 {
 	font-size: 125%;
 	float: right;
 	text-align: center;
-	border: 5px solid black;
+	border: 1px solid black;
 	font-weight: bold;
 	width: 100px;
 	height: 40px;
@@ -33,7 +33,7 @@ h1 {
 }
 
 .content {
-	border: 5px solid black;
+	border: 1px solid black;
 	width: 90%;
 	height: auto;
 	margin: 2.5%;
