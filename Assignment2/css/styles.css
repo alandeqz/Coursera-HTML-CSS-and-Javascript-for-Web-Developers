@@ -7,6 +7,10 @@
 	border-radius: 0;
 }
 
+.container-fluid{
+	margin: 0;
+	padding: 0;
+}
 
 .brand {
 	font-size: 40px;
@@ -39,6 +43,8 @@
 	width: 100%;
 	display: block;
 	border-bottom: 1px solid black;
+	margin: 0;
+	padding: 0;
 }
 
 .title {
