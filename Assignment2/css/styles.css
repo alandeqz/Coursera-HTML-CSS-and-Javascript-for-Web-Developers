@@ -1,0 +1,68 @@
+* {
+	box-sizing: border-box;
+}
+
+.navbar {
+	background-color: gray;
+	border-radius: 0;
+}
+
+
+.brand {
+	font-size: 40px;
+	color: white;
+	padding-left: 20px;
+}
+
+.brand:hover{
+	color: black;
+}
+
+.navbar-nav {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+}
+
+.navbar-toggle {
+	border: 2px solid black;
+	margin-right: 20px;
+}
+
+.icon-bar {
+	background-color: white;
+}
+
+.nav-item {
+	color: black;
+	background-color: white;
+	width: 100%;
+	display: block;
+	border-bottom: 1px solid black;
+}
+
+.title {
+	font-family: serif, cursive;
+	color: magenta;
+	margin-bottom: 10px;
+	font-weight: bold;
+	font-size: 50px;
+}
+
+.row {
+	margin: 20px;
+}
+
+.item {
+	font-weight: bold;
+	text-align: center;
+}
+
+.box {
+	width: auto;
+	height: auto;
+	background-color: silver;
+	padding: 10px;
+	margin: 20px;
+}
